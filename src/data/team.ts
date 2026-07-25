@@ -15,7 +15,7 @@ export const team: TeamMember[] = [
     linkedin: 'https://linkedin.com/in/ali-raza-awan',
     github: 'https://github.com/ali-raza-awan',
     image:
-      'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=800',
+      '/download.jfif',
   },
   {
     name: 'Rana Hammad',
@@ -23,6 +23,6 @@ export const team: TeamMember[] = [
     bio: 'Specializes in premium digital experiences and full stack development.',
     linkedin: 'https://linkedin.com/in/ali-raza-awan',
     image:
-      'https://images.pexels.com/photos/3777943/pexels-photo-3777943.jpeg?auto=compress&cs=tinysrgb&w=800',
+      '/download.jfif',
   },
 ];

@@ -4,8 +4,8 @@ import { ArrowRight, Mail } from 'lucide-react';
 import ParticleBackground from './ParticleBackground';
 
 const stats = [
-  { value: '10+', label: 'Projects' },
-  { value: '2', label: 'Countries' },
+  { value: '35+', label: 'Projects' },
+  { value: '2+', label: 'Countries' },
   { value: '4', label: 'Services' },
 ];
 
