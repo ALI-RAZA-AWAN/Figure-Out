@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
+import { HashRouter, Routes, Route, useLocation } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -28,7 +28,7 @@ function AnimatedRoutes() {
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <ScrollToTop />
       <div className="min-h-screen flex flex-col bg-bg-base text-ink-primary">
         <Navbar />
@@ -38,6 +38,6 @@ export default function App() {
         <Footer />
         <WhatsAppButton />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
