@@ -1,0 +1,23 @@
+# Figure Out — Digital Agency
+
+> Figure Out is a digital agency crafting premium web & app experiences, AI-powered products, and high-converting user interfaces.
+
+## Overview
+- **Name**: Figure Out
+- **Type**: Digital Product & Web Agency
+- **Founder**: Ali Raza Awan
+- **Website**: https://figureout.surge.sh
+- **GitHub**: https://github.com/ALI-RAZA-AWAN/Figure-Out
+
+## Core Capabilities & Services
+- **Web & Full-Stack Application Development**: Custom, high-performance web applications built with React, TypeScript, Vite, and Tailwind CSS.
+- **AI Product Integration**: Integrating Large Language Models (LLMs), AI automation, and custom intelligent features.
+- **UI/UX Design & Branding**: Designing intuitive, conversion-focused user interfaces and modern visual systems.
+- **Performance & Conversion Optimization**: Optimizing web applications for speed, SEO, and engagement.
+
+## Technical Stack
+- React 18, TypeScript, Vite, Tailwind CSS, Framer Motion, Lucide Icons, Supabase.
+
+## Contact & Links
+- Website: https://figureout.surge.sh
+- GitHub Repository: https://github.com/ALI-RAZA-AWAN/Figure-Out
