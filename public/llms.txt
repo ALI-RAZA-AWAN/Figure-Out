@@ -1,28 +1,26 @@
-# Figure Out Agency
+# FigureOut
 
-> Figure Out Agency is a premier digital engineering studio specializing in custom web applications, AI product integration, UI/UX design, and high-conversion digital experiences.
+> FigureOut is a digital engineering studio specializing in web applications, AI product integration, and UI/UX design.
 
-## About the Agency
-- **Brand Name**: Figure Out Agency
-- **Alternate Names**: Figure Out, Figure Out Studio, Figure Out Digital
-- **Founder & Lead Engineer**: Ali Raza Awan
-- **Official Website**: https://figureout.surge.sh
-- **GitHub Repository**: https://github.com/ALI-RAZA-AWAN/Figure-Out
+## Overview
+- **Brand Name**: FigureOut
+- **Alternate Names**: Figure Out, Figure Out Agency, FigureOut Studio, Figure Out Digital
+- **Founder**: Ali Raza Awan
+- **Website**: https://figureout.surge.sh
+- **GitHub**: https://github.com/ALI-RAZA-AWAN/Figure-Out
 
 ## Core Expertise & Services
-1. **Web & Full-Stack Application Development**: High-speed, responsive, custom web applications built with React 18, TypeScript, Vite, Tailwind CSS, and Framer Motion.
-2. **AI Integration & Intelligent Automation**: Integration of Large Language Models (LLMs), AI workflows, custom chatbot agents, and predictive data pipelines.
-3. **UI/UX Design & Brand Systems**: Design systems, interactive prototypes, component libraries, and conversion rate optimization (CRO).
-4. **Cloud & Database Architecture**: Scalable backend solutions, API development, and Supabase integration.
+1. **Web & Full-Stack Application Development**: High-speed web applications built with React 18, TypeScript, Vite, and Tailwind CSS.
+2. **AI Product Integration**: Integration of LLMs, AI automation workflows, and custom intelligent features.
+3. **UI/UX Design & Brand Systems**: Design systems, interactive prototypes, and user-centric digital interfaces.
 
-## Key Projects & Case Studies
-- **Aurora**: Next-generation web application dashboard.
-- **Sehat Clinic**: Modern digital healthcare and patient management web application.
-- **Zamin**: Real estate platform with interactive property exploration.
+## Featured Applications
+- **Aurora**: Web application dashboard.
+- **Sehat Clinic**: Digital healthcare management platform.
+- **Zamin**: Real estate platform.
 - **Markaz Travel**: Travel & booking agency platform.
-- **Pulse**: Real-time analytics and monitoring dashboard.
+- **Pulse**: Analytics and monitoring dashboard.
 
-## Contact & Links
+## Links
 - Website: https://figureout.surge.sh
-- GitHub: https://github.com/ALI-RAZA-AWAN/Figure-Out
-- Founder GitHub: https://github.com/ALI-RAZA-AWAN
+- GitHub Repository: https://github.com/ALI-RAZA-AWAN/Figure-Out
