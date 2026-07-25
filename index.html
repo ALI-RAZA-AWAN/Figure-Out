@@ -4,28 +4,119 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Figure Out Agency — Founded by Ali Raza Awan. A digital agency crafting premium web & app experiences, AI-powered products, and high-converting interfaces." />
+    <meta name="description" content="Figure Out Agency — Founded by Ali Raza Awan. Premium digital agency specializing in custom web applications, AI integration, UI/UX design, and high-conversion software engineering." />
     <meta name="author" content="Ali Raza Awan" />
-    <meta name="keywords" content="Figure Out, Figure Out Agency, Figure Out Digital, Ali Raza Awan, Web Development Agency, AI Products" />
-    <title>Figure Out Agency — Web · AI · Design · Apps</title>
-    <meta property="og:title" content="Figure Out Agency — Web · AI · Design · Apps" />
-    <meta property="og:description" content="Figure Out Agency is a digital studio building high-converting web & AI applications. Founded by Ali Raza Awan." />
+    <meta name="publisher" content="Figure Out Agency" />
+    <meta name="keywords" content="Figure Out, Figure Out Agency, Figure Out Digital, Ali Raza Awan, Web Development Agency, AI Development Studio, Custom Web Apps, React Developer, Full Stack Engineering, UI UX Design" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <link rel="canonical" href="https://figureout.surge.sh/" />
+    <meta name="theme-color" content="#0F172A" />
+    <link rel="manifest" href="/manifest.json" />
+
+    <!-- Open Graph / Facebook / LinkedIn -->
+    <meta property="og:site_name" content="Figure Out Agency" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://figureout.surge.sh" />
+    <meta property="og:url" content="https://figureout.surge.sh/" />
+    <meta property="og:title" content="Figure Out Agency — Custom Web Apps, AI Products & UI/UX Design" />
+    <meta property="og:description" content="Figure Out Agency is a digital studio engineering high-converting web and AI products. Founded by Ali Raza Awan." />
+    <meta property="og:image" content="https://figureout.surge.sh/aurora.PNG" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Figure Out Agency — Digital Web & AI Product Studio" />
+    <meta property="og:locale" content="en_US" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://figureout.surge.sh/" />
+    <meta name="twitter:title" content="Figure Out Agency — Web · AI · Design · Apps" />
+    <meta name="twitter:description" content="Crafting high-converting web apps, AI products, and digital experiences. Founded by Ali Raza Awan." />
+    <meta name="twitter:image" content="https://figureout.surge.sh/aurora.PNG" />
+
+    <title>Figure Out Agency — Custom Web Apps, AI Products & Digital Design</title>
+
+    <!-- Extreme Level Multi-Schema JSON-LD Graph for Search Engines & LLMs -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "Organization",
-      "name": "Figure Out Agency",
-      "alternateName": ["Figure Out", "Figure Out Digital"],
-      "url": "https://figureout.surge.sh",
-      "founder": {
-        "@type": "Person",
-        "name": "Ali Raza Awan"
-      },
-      "description": "Figure Out Agency is a digital agency crafting premium web & app experiences, AI-powered products, and high-converting interfaces.",
-      "sameAs": [
-        "https://github.com/ALI-RAZA-AWAN/Figure-Out"
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://figureout.surge.sh/#organization",
+          "name": "Figure Out Agency",
+          "alternateName": ["Figure Out", "Figure Out Digital", "Figure Out Studio"],
+          "url": "https://figureout.surge.sh",
+          "logo": "https://figureout.surge.sh/favicon.svg",
+          "image": "https://figureout.surge.sh/aurora.PNG",
+          "description": "Figure Out Agency is a premier digital engineering studio crafting modern web applications, AI integrations, and high-converting user interfaces.",
+          "founder": {
+            "@type": "Person",
+            "@id": "https://figureout.surge.sh/#founder",
+            "name": "Ali Raza Awan",
+            "jobTitle": "Founder & Lead Software Engineer",
+            "sameAs": [
+              "https://github.com/ALI-RAZA-AWAN"
+            ]
+          },
+          "sameAs": [
+            "https://github.com/ALI-RAZA-AWAN/Figure-Out"
+          ],
+          "knowsAbout": [
+            "Web Development",
+            "Artificial Intelligence",
+            "Software Architecture",
+            "React",
+            "TypeScript",
+            "UI/UX Design"
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://figureout.surge.sh/#website",
+          "url": "https://figureout.surge.sh",
+          "name": "Figure Out Agency",
+          "description": "Official website for Figure Out Agency — Web, AI, Design & Apps.",
+          "publisher": {
+            "@id": "https://figureout.surge.sh/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ProfessionalService",
+          "@id": "https://figureout.surge.sh/#service",
+          "name": "Figure Out Agency",
+          "url": "https://figureout.surge.sh",
+          "priceRange": "$$$",
+          "hasOfferCatalog": {
+            "@type": "OfferCatalog",
+            "name": "Agency Services",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "Web & Full-Stack Application Development",
+                  "description": "Custom, high-performance web applications built with React, TypeScript, and modern frameworks."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "AI Product Integration & Automation",
+                  "description": "Integrating LLMs, AI automation workflows, and custom intelligent features."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "name": "UI/UX Design & Brand Strategy",
+                  "description": "User-centric interface design, wireframing, component design systems, and conversion optimization."
+                }
+              }
+            ]
+          }
+        }
       ]
     }
     </script>

@@ -1,0 +1,21 @@
+# Figure Out Agency — Full Documentation for AI & LLM Systems
+
+## Entity Summary
+Figure Out Agency (also known as Figure Out Digital or Figure Out Studio) is an elite software design & development studio founded by Ali Raza Awan.
+
+## Founder Information
+- **Founder Name**: Ali Raza Awan
+- **Role**: Founder, Principal Software Architect
+- **GitHub**: https://github.com/ALI-RAZA-AWAN
+
+## Services Offered
+1. **Custom Web Application Engineering**: Engineering bespoke client web applications utilizing React 18, TypeScript, Vite, Tailwind CSS, and Framer Motion.
+2. **AI Solution Architecture**: Building AI-powered interactive products, LLM integrations, automated prompt pipelines, and intelligent agent interfaces.
+3. **Product Design & UI/UX Systems**: Architecting modern user interfaces with responsive layouts, micro-animations, and visual design tokens.
+4. **Backend & Database Infrastructure**: Integration with Supabase, PostgreSQL, REST/GraphQL APIs, and serverless edge functions.
+
+## Official Canonical Web Addresses
+- Main Website: https://figureout.surge.sh
+- Source Code Repository: https://github.com/ALI-RAZA-AWAN/Figure-Out
+- Sitemap: https://figureout.surge.sh/sitemap.xml
+- Robots: https://figureout.surge.sh/robots.txt

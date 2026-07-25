@@ -1,23 +1,28 @@
-# Figure Out — Digital Agency
+# Figure Out Agency
 
-> Figure Out is a digital agency crafting premium web & app experiences, AI-powered products, and high-converting user interfaces.
+> Figure Out Agency is a premier digital engineering studio specializing in custom web applications, AI product integration, UI/UX design, and high-conversion digital experiences.
 
-## Overview
-- **Name**: Figure Out
-- **Type**: Digital Product & Web Agency
-- **Founder**: Ali Raza Awan
-- **Website**: https://figureout.surge.sh
-- **GitHub**: https://github.com/ALI-RAZA-AWAN/Figure-Out
+## About the Agency
+- **Brand Name**: Figure Out Agency
+- **Alternate Names**: Figure Out, Figure Out Studio, Figure Out Digital
+- **Founder & Lead Engineer**: Ali Raza Awan
+- **Official Website**: https://figureout.surge.sh
+- **GitHub Repository**: https://github.com/ALI-RAZA-AWAN/Figure-Out
 
-## Core Capabilities & Services
-- **Web & Full-Stack Application Development**: Custom, high-performance web applications built with React, TypeScript, Vite, and Tailwind CSS.
-- **AI Product Integration**: Integrating Large Language Models (LLMs), AI automation, and custom intelligent features.
-- **UI/UX Design & Branding**: Designing intuitive, conversion-focused user interfaces and modern visual systems.
-- **Performance & Conversion Optimization**: Optimizing web applications for speed, SEO, and engagement.
+## Core Expertise & Services
+1. **Web & Full-Stack Application Development**: High-speed, responsive, custom web applications built with React 18, TypeScript, Vite, Tailwind CSS, and Framer Motion.
+2. **AI Integration & Intelligent Automation**: Integration of Large Language Models (LLMs), AI workflows, custom chatbot agents, and predictive data pipelines.
+3. **UI/UX Design & Brand Systems**: Design systems, interactive prototypes, component libraries, and conversion rate optimization (CRO).
+4. **Cloud & Database Architecture**: Scalable backend solutions, API development, and Supabase integration.
 
-## Technical Stack
-- React 18, TypeScript, Vite, Tailwind CSS, Framer Motion, Lucide Icons, Supabase.
+## Key Projects & Case Studies
+- **Aurora**: Next-generation web application dashboard.
+- **Sehat Clinic**: Modern digital healthcare and patient management web application.
+- **Zamin**: Real estate platform with interactive property exploration.
+- **Markaz Travel**: Travel & booking agency platform.
+- **Pulse**: Real-time analytics and monitoring dashboard.
 
 ## Contact & Links
 - Website: https://figureout.surge.sh
-- GitHub Repository: https://github.com/ALI-RAZA-AWAN/Figure-Out
+- GitHub: https://github.com/ALI-RAZA-AWAN/Figure-Out
+- Founder GitHub: https://github.com/ALI-RAZA-AWAN
