@@ -9,7 +9,6 @@ import WorkPage from '@/pages/WorkPage';
 import TeamPage from '@/pages/TeamPage';
 import ContactPage from '@/pages/ContactPage';
 import ScrollToTop from '@/components/ScrollToTop';
-import SplashLoader from '@/components/SplashLoader';
 
 function AnimatedRoutes() {
   const location = useLocation();
@@ -30,7 +29,6 @@ function AnimatedRoutes() {
 export default function App() {
   return (
     <HashRouter>
-      <SplashLoader />
       <ScrollToTop />
       <div className="min-h-screen flex flex-col bg-bg-base text-ink-primary">
         <Navbar />
